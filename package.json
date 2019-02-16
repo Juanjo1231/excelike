@@ -1,0 +1,14 @@
+{
+  "name": "excelike",
+  "version": "0.0.1",
+  "description": "Provides an excel-like interface for web applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "excel"
+  ],
+  "author": "Juanjo Rivera",
+  "license": "MIT"
+}
